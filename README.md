@@ -7,7 +7,7 @@
 
 <br>
 
-![Model](https://github.com/marcustrento/portfolioDIO/blob/mainassets/images/preview.png?raw=true)
+![Model](https://github.com/marcustrento/portfolioDIO/blob/main/assets/images/preview.png?raw=true)
 
 ## 🚀 Tecnologias
 
