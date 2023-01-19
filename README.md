@@ -9,10 +9,6 @@
 
 ![Model](https://github.com/marcustrento/portfolioDIO/blob/main/assets/images/preview.png?raw=true)
 
-<p align="center">
-  ![alt text](https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png)
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
