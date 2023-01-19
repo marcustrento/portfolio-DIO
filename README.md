@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  ![alt text](https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png")
+  ![alt text](https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png)
 </p>
 
 ## 🚀 Tecnologias
