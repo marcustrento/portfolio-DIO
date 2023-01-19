@@ -7,7 +7,7 @@
 
 <br>
 
-![Model](https://github.com/marcustrento/portfolioDIO/blob/main/assets/images/preview.png?raw=true)
+![Model](https://github.com/marcustrento/portfolioDIO/blob/mainassets/images/preview.png?raw=true)
 
 ## 🚀 Tecnologias
 
@@ -24,4 +24,4 @@ Portfólio criado durante realização do curso de JavaScript na plataforma de e
 Realizei diversas mudanças para deixar o projeto com a "minha cara", e adicionei algumas informações para complementar o layout inicial que eles propuseram.
 
 
-[def]: https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png
+[def]: https://github.com/marcustrento/portfolioDIO/tree/mainassets/images/preview.png
