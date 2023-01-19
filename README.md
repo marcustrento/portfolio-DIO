@@ -7,6 +7,8 @@
 
 <br>
 
+![alt text][https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png]
+
 <p align="center">
   ![alt text](https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png)
 </p>
@@ -24,3 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Portfólio criado durante realização do curso de JavaScript na plataforma de ensino DIO.
 
 Realizei diversas mudanças para deixar o projeto com a "minha cara", e adicionei algumas informações para complementar o layout inicial que eles propuseram.
+
+
+[def]: https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png
