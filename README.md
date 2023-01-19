@@ -7,7 +7,7 @@
 
 <br>
 
-![Model](https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png)
+![Model](https://github.com/marcustrento/portfolioDIO/blob/main/assets/images/preview.png?raw=true)
 
 <p align="center">
   ![alt text](https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png)
