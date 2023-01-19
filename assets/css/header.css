@@ -51,19 +51,19 @@
 }
 
 .information .position::before {
-    background-image: url(assets/images/icons/position.svg);
+    background-image: url(../images/icons/position.svg);
 }
 
 .information .location::before {
-    background-image: url(assets/images/icons/location.svg);
+    background-image: url(../images/icons/location.svg);
 }
 
 .information .phone::before {
-    background-image: url(assets/images/icons/phone.svg);
+    background-image: url(../images/icons/phone.svg);
 }
 
 .information .email::before {
-    background-image: url(assets/images/icons/email.svg);
+    background-image: url(../images/icons/email.svg);
 }
 
 @media only screen and (min-width: 768px) {
