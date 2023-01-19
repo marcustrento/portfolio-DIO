@@ -1,0 +1,22 @@
+.languages {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.languages li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1rem 1rem 1rem 0;
+    font-weight: 700;
+}
+
+.languages li::before {
+    content: '✓';
+    margin-right: .5rem;
+}
