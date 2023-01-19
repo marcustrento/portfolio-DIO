@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="imagem do portfolio" src="https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png" width="100%">
+  ![alt text](https://github.com/marcustrento/portfolioDIO/tree/main/assets/images/preview.png" width="100%")
 </p>
 
 ## 🚀 Tecnologias
